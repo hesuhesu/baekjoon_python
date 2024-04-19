@@ -10,4 +10,12 @@
 
 각 문장의 앞에 줄 번호를 추가한 뒤 출력한다. 줄 번호는 1번부터 시작한다. 줄번호를 추가하는 형식은 출력 예제를 참고하면 된다.
 
+```
+1. Lionel Cosgrove
+2. Alice
+3. Columbus and Tallahassee
+4. Shaun and Ed
+5. Fido
+```
+
 [출처](https://www.acmicpc.net/problem/4470)
