@@ -8,7 +8,7 @@ Your job is to write a program that converts the given messages to upper-case.
 
 # 입력
 
-A single line containing a string of length n (100 ≤ n ≤ 106), consisting of lower-case alphabetic characters.
+A single line containing a string of length $n (10^{0} ≤ n ≤ 10^{6})$, consisting of lower-case alphabetic characters.
 
 # 출력
 
