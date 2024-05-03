@@ -10,7 +10,7 @@ Given the quantity of meals available for each choice and the number of meals re
 
 # 입력
 
-The first line contains three integers Ca, Ba and Pa (0 ≤ Ca, Ba, Pa ≤ 100), representing respectively the number of meals available for chicken, beef and pasta. The second line contains three integers Cr, Br and Pr (0 ≤ Cr, Br, Pr ≤ 100), indicating respectively the number of meals requested for chicken, beef and pasta.
+The first line contains three integers $C_a, B_a$ and $P_a (0 ≤ C_a, B_a, P_a ≤ 100)$, representing respectively the number of meals available for chicken, beef and pasta. The second line contains three integers $C_r, B_r$ and $P_r (0 ≤ C_r, B_r, P_r ≤ 100)$, indicating respectively the number of meals requested for chicken, beef and pasta.
 
 # 출력
 
