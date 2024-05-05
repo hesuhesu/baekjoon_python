@@ -8,7 +8,7 @@ At last, it was agreed that the competition would be hosted at the school which 
 
 # 입력
 
-The input consists of several test cases. The first line contains an integer indicating the number of test cases. Each test case follows. Each test case consists of a single line containing 4 integers 1 ≤ lt, wt, le, we ≤ 109 separated by single spaces: lt and wt represent the length and width of the sports field of TelecomParisTech, and le and we represent the length and width of the sports field at Eurecom.
+The input consists of several test cases. The first line contains an integer indicating the number of test cases. Each test case follows. Each test case consists of a single line containing $4$ integers $1 ≤ l_t, w_t, l_e, w_e ≤ 10^{9}$ separated by single spaces: $l_t$ and $w_t$ represent the length and width of the sports field of TelecomParisTech, and $l_e$ and $w_e$ represent the length and width of the sports field at Eurecom.
 
 # 출력
 
