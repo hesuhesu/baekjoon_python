@@ -14,4 +14,13 @@ Output the product of A and B without leading zeros.
 
 - 1 ≤ N, M ≤ 50 000
 
+# 서브태스크
+
+|번호|배점|제한|
+|---|---|------|
+|1|20|N, M ≤ 4|
+|2|20|N, M ≤ 9|
+|3|30|N, M ≤ 5 000|
+|4|30|No additional constraints|
+
 [출처](https://www.acmicpc.net/problem/22193)
