@@ -2,12 +2,15 @@
 
 There are five ways to score points in american professional football:
 
-Touchdown - 6 points
-Field Goal - 3 points
-Safety - 2 points
-After touchdown
-1 point (Field Goal or Safety) - Typically called the “Point after”
-2 points (touchdown) - Typically called the “Two-point conversion”
+1. Touchdown - 6 points
+2. Field Goal - 3 points
+3. Safety - 2 points
+4. After touchdown
+    
+    a. 1 point (Field Goal or Safety) - Typically called the “Point after”
+    
+    b. 2 points (touchdown) - Typically called the “Two-point conversion”
+
 (https://operations.nfl.com/the-rules/nfl-video-rulebook/scoring-plays/)
 
 Given the box score values for two competing teams, calculate the point total for each team.
