@@ -12,4 +12,8 @@ The special property of an ISBN number is that its 1-3-sum is always a multiple 
 
 Write a program to compute the 1-3-sum of a 13-digit number. To reduce the amount of typing, you may assume that the first ten digits will always be 9780921418, like the example above. Your program should input the last three digits and then print its 1-3-sum. Use a format similar to the samples below.
 
+```
+The 1-3-sum is 120
+```
+
 [출처](https://www.acmicpc.net/problem/6810)
